@@ -1,0 +1,20 @@
+ 21:50:34.102 [pkg.Main.main()] INFO  pkg.Main - The mouse ran up the clock
+ 21:50:34.108 [pkg.Main.main()] ERROR pkg.Main - He hit the floor
+ 21:50:35.109 [pkg.Main.main()] INFO  pkg.Main - The mouse ran up the clock
+ 21:50:35.114 [pkg.Main.main()] ERROR pkg.Main - He hit the floor
+ 21:50:36.114 [pkg.Main.main()] INFO  pkg.Main - The mouse ran up the clock
+ 21:50:36.121 [pkg.Main.main()] ERROR pkg.Main - He hit the floor
+ 21:50:37.123 [pkg.Main.main()] INFO  pkg.Main - The mouse ran up the clock
+ 21:50:37.130 [pkg.Main.main()] ERROR pkg.Main - He hit the floor
+ 21:50:38.132 [pkg.Main.main()] INFO  pkg.Main - The mouse ran up the clock
+ 21:50:38.138 [pkg.Main.main()] ERROR pkg.Main - He hit the floor
+ 21:50:39.140 [pkg.Main.main()] INFO  pkg.Main - The mouse ran up the clock
+ 21:50:39.145 [pkg.Main.main()] ERROR pkg.Main - He hit the floor
+ 21:50:40.147 [pkg.Main.main()] INFO  pkg.Main - The mouse ran up the clock
+ 21:50:40.194 [pkg.Main.main()] ERROR pkg.Main - He hit the floor
+ 21:50:41.195 [pkg.Main.main()] INFO  pkg.Main - The mouse ran up the clock
+ 21:50:41.199 [pkg.Main.main()] ERROR pkg.Main - He hit the floor
+ 21:50:42.201 [pkg.Main.main()] INFO  pkg.Main - The mouse ran up the clock
+ 21:50:42.206 [pkg.Main.main()] ERROR pkg.Main - He hit the floor
+ 21:50:43.207 [pkg.Main.main()] INFO  pkg.Main - The mouse ran up the clock
+ 21:50:43.212 [pkg.Main.main()] ERROR pkg.Main - He hit the floor

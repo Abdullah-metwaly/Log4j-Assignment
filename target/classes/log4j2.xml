@@ -1,0 +1,43 @@
+<Configuration status="all">
+    <Properties>
+        <Property name="LOG_PATTERN">%X{iteration} %d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n</Property>
+    </Properties>
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%highlight{${LOG_PATTERN}}"/>
+        </Console>
+        <File name="File1" fileName="hickory.log" append="false">
+            <PatternLayout pattern="${LOG_PATTERN}"/>
+            <MarkerFilter marker="HICKORY_DICKORY" onMatch="ACCEPT" onMismatch="DENY"/>
+        </File>
+        <File name="File2" fileName="mouse.log" append="false">
+            <PatternLayout pattern="${LOG_PATTERN}"/>
+            <MarkerFilter marker="MOUSE" onMatch="ACCEPT" onMismatch="DENY"/>
+        </File>
+        <File name="File3" fileName="ran_down.log" append="false">
+            <PatternLayout pattern="${LOG_PATTERN}"/>
+            <MarkerFilter marker="RAN_DOWN" onMatch="ACCEPT" onMismatch="DENY"/>
+        </File>
+        <File name="File4" fileName="no-markers.log" append="false">
+            <PatternLayout pattern="${LOG_PATTERN}"/>
+            <NoMarkerFilter onMatch="ACCEPT" onMismatch="DENY"/>
+        </File>
+        <File name="File5" fileName="curfew.log" append="false">
+            <PatternLayout pattern="${LOG_PATTERN}"/>
+            <TimeFilter start="20:00:00" end="05:00:00" onMatch="ACCEPT" onMismatch="DENY"/>
+        </File>
+    </Appenders>
+    <Loggers>
+        <Root level="all">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="File1"/>
+            <AppenderRef ref="File2"/>
+            <AppenderRef ref="File3"/>
+            <AppenderRef ref="File4"/>
+            <AppenderRef ref="File5"/>
+        </Root>
+        <Logger name="pkg.Main" additivity="true">
+            <AppenderRef ref="Console"/>
+        </Logger>
+    </Loggers>
+</Configuration>

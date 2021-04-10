@@ -1,0 +1,50 @@
+ 21:50:34.102 [pkg.Main.main()] INFO  pkg.Main - The mouse ran up the clock
+ 21:50:34.106 [pkg.Main.main()] DEBUG pkg.Main - The mouse ran
+ 21:50:34.107 [pkg.Main.main()] FATAL pkg.Main - Hickory Dickory
+ 21:50:34.107 [pkg.Main.main()] WARN  pkg.Main - The mouse ran down
+ 21:50:34.108 [pkg.Main.main()] ERROR pkg.Main - He hit the floor
+ 21:50:35.109 [pkg.Main.main()] INFO  pkg.Main - The mouse ran up the clock
+ 21:50:35.111 [pkg.Main.main()] DEBUG pkg.Main - The mouse ran
+ 21:50:35.112 [pkg.Main.main()] FATAL pkg.Main - Hickory Dickory
+ 21:50:35.113 [pkg.Main.main()] WARN  pkg.Main - The mouse ran down
+ 21:50:35.114 [pkg.Main.main()] ERROR pkg.Main - He hit the floor
+ 21:50:36.114 [pkg.Main.main()] INFO  pkg.Main - The mouse ran up the clock
+ 21:50:36.116 [pkg.Main.main()] DEBUG pkg.Main - The mouse ran
+ 21:50:36.118 [pkg.Main.main()] FATAL pkg.Main - Hickory Dickory
+ 21:50:36.120 [pkg.Main.main()] WARN  pkg.Main - The mouse ran down
+ 21:50:36.121 [pkg.Main.main()] ERROR pkg.Main - He hit the floor
+ 21:50:37.123 [pkg.Main.main()] INFO  pkg.Main - The mouse ran up the clock
+ 21:50:37.126 [pkg.Main.main()] DEBUG pkg.Main - The mouse ran
+ 21:50:37.128 [pkg.Main.main()] FATAL pkg.Main - Hickory Dickory
+ 21:50:37.129 [pkg.Main.main()] WARN  pkg.Main - The mouse ran down
+ 21:50:37.130 [pkg.Main.main()] ERROR pkg.Main - He hit the floor
+ 21:50:38.132 [pkg.Main.main()] INFO  pkg.Main - The mouse ran up the clock
+ 21:50:38.134 [pkg.Main.main()] DEBUG pkg.Main - The mouse ran
+ 21:50:38.135 [pkg.Main.main()] FATAL pkg.Main - Hickory Dickory
+ 21:50:38.137 [pkg.Main.main()] WARN  pkg.Main - The mouse ran down
+ 21:50:38.138 [pkg.Main.main()] ERROR pkg.Main - He hit the floor
+ 21:50:39.140 [pkg.Main.main()] INFO  pkg.Main - The mouse ran up the clock
+ 21:50:39.142 [pkg.Main.main()] DEBUG pkg.Main - The mouse ran
+ 21:50:39.143 [pkg.Main.main()] FATAL pkg.Main - Hickory Dickory
+ 21:50:39.144 [pkg.Main.main()] WARN  pkg.Main - The mouse ran down
+ 21:50:39.145 [pkg.Main.main()] ERROR pkg.Main - He hit the floor
+ 21:50:40.147 [pkg.Main.main()] INFO  pkg.Main - The mouse ran up the clock
+ 21:50:40.190 [pkg.Main.main()] DEBUG pkg.Main - The mouse ran
+ 21:50:40.191 [pkg.Main.main()] FATAL pkg.Main - Hickory Dickory
+ 21:50:40.192 [pkg.Main.main()] WARN  pkg.Main - The mouse ran down
+ 21:50:40.194 [pkg.Main.main()] ERROR pkg.Main - He hit the floor
+ 21:50:41.195 [pkg.Main.main()] INFO  pkg.Main - The mouse ran up the clock
+ 21:50:41.196 [pkg.Main.main()] DEBUG pkg.Main - The mouse ran
+ 21:50:41.197 [pkg.Main.main()] FATAL pkg.Main - Hickory Dickory
+ 21:50:41.198 [pkg.Main.main()] WARN  pkg.Main - The mouse ran down
+ 21:50:41.199 [pkg.Main.main()] ERROR pkg.Main - He hit the floor
+ 21:50:42.201 [pkg.Main.main()] INFO  pkg.Main - The mouse ran up the clock
+ 21:50:42.202 [pkg.Main.main()] DEBUG pkg.Main - The mouse ran
+ 21:50:42.203 [pkg.Main.main()] FATAL pkg.Main - Hickory Dickory
+ 21:50:42.204 [pkg.Main.main()] WARN  pkg.Main - The mouse ran down
+ 21:50:42.206 [pkg.Main.main()] ERROR pkg.Main - He hit the floor
+ 21:50:43.207 [pkg.Main.main()] INFO  pkg.Main - The mouse ran up the clock
+ 21:50:43.209 [pkg.Main.main()] DEBUG pkg.Main - The mouse ran
+ 21:50:43.210 [pkg.Main.main()] FATAL pkg.Main - Hickory Dickory
+ 21:50:43.211 [pkg.Main.main()] WARN  pkg.Main - The mouse ran down
+ 21:50:43.212 [pkg.Main.main()] ERROR pkg.Main - He hit the floor
